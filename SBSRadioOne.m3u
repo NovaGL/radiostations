@@ -1,0 +1,7 @@
+[playlist]
+NumberOfEvents=1
+
+File1=http://icecast.icecast.sbs.com.au:80/SBSRadioOne
+Title1=NewsRadio
+Length1=-1
+Version=2
